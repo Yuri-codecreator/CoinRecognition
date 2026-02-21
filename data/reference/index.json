@@ -1,0 +1,25 @@
+{
+  "templates": [
+    {
+      "label": "20_Peso_New_Front",
+      "value_php": 20,
+      "image": "20_peso_new_front.jpg",
+      "version": "new",
+      "side": "front"
+    },
+    {
+      "label": "100_Peso_Old_Back",
+      "value_php": 100,
+      "image": "100_peso_old_back.jpg",
+      "version": "old",
+      "side": "back"
+    },
+    {
+      "label": "10_Peso_Coin_Heads",
+      "value_php": 10,
+      "image": "10_peso_coin_heads.jpg",
+      "version": "current",
+      "side": "heads"
+    }
+  ]
+}
